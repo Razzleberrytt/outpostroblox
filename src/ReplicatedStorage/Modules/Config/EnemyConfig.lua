@@ -3,6 +3,7 @@
 local EnemyConfig = {
 	Grunt = {
 		DisplayName = "Grunt",
+		AssetId = "Enemy_Grunt",
 		Health = 30,
 		Damage = 25,
 		MoveSpeed = 8,
